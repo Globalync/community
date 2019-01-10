@@ -6,20 +6,20 @@
   "dependencies": {
     "@types/cbor": "^2.0.0",
     "cbor": "^4.0.0",
-    "jsonwebtoken": "^8.1.0",
-    "mqtt": "^2.15.1",
-    "rxjs": "^5.5.10"
+    "jsonwebtoken": "8.4.0",
+    "mqtt": "2.18.8",
+    "rxjs": "^6.3.3"
   },
   "optionalDependencies": {
     "eddystone-beacon-scanner": "^3.0.0"
   },
   "devDependencies": {
-    "@types/jsonwebtoken": "^7.2.5",
-    "@types/node": "^9.3.0",
-    "gts": "^0.5.4",
+    "@types/jsonwebtoken": "^8.3.0",
+    "@types/node": "^10.12.18",
+    "gts": "^0.9.0",
     "nodemon": "^1.14.11",
-    "ts-node": "^4.1.0",
-    "typescript": "~2.6.1"
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
   },
   "scripts": {
     "check": "gts check",
