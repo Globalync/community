@@ -14,11 +14,11 @@
   "scripts": {},
   "devDependencies": {},
   "dependencies": {
-    "@google-cloud/datastore": "^1.4.0",
+    "@google-cloud/datastore": "^2.0.0",
     "append-query": "^2.0.1",
-    "express": "^4.16.3",
+    "express": "4.16.4",
     "fernet": "^0.3.1",
-    "jsonwebtoken": "^8.2.1",
-    "pug": "^2.0.3"
+    "jsonwebtoken": "8.4.0",
+    "pug": "2.0.3"
   }
 }
