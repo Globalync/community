@@ -1,0 +1,28 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "tutorials/appengine-nodejs-webpack/package.json",
+        "tutorials/cloud-functions-avro-import-bq/package.json",
+        "tutorials/cloud-functions-github-auto-deployer/auto-deployer/package.json",
+        "tutorials/cloud-functions-oauth-gmail/package.json",
+        "tutorials/cloud-functions-twilio-sms/package.json",
+        "tutorials/cloud-functions-twilio-voice-record/package.json",
+        "tutorials/cloud-iot-firestore-config/functions/package.json",
+        "tutorials/cloud-iot-firestore-config/sample-device/package.json",
+        "tutorials/cloud-iot-logging/functions/package.json",
+        "tutorials/cloud-iot-logging/sample-device/package.json",
+        "tutorials/cloud-iot-mender-ota/auth-function/functions/package.json",
+        "tutorials/cloud-iot-rtdp/function/package.json",
+        "tutorials/express-memcached-session-appengine/package.json",
+        "tutorials/extending-google-appengine-flexible-nodejs-runtime/package.json",
+        "tutorials/github-auto-assign-reviewers-cloud-functions/package.json",
+        "tutorials/iot-device-to-device/dev2dev/package.json",
+        "tutorials/iot-device-to-device/virtualdevice/package.json",
+        "tutorials/understanding-oauth2-and-deploy-a-basic-auth-srv-to-cloud-functions/code/package.json",
+        "tutorials/using-nodejs-to-calculate-the-size-of-a-bigquery-dataset/package.json"
+      ]
+    }
+  }
+}
