@@ -2,6 +2,8 @@
 
 # Google Cloud Platform Community [![Slack][slack_badge]][slack_link] [![Build][build_badge]][build_link]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Globalync/community.svg)](https://greenkeeper.io/)
+
 This repository holds the content submitted to
 [cloud.google.com/community][community].
 
